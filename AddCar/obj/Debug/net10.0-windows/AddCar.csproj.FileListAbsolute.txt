@@ -1,0 +1,16 @@
+D:\C#\project\AddCar\AddCar\bin\Debug\net10.0-windows\AddCar.exe
+D:\C#\project\AddCar\AddCar\bin\Debug\net10.0-windows\AddCar.deps.json
+D:\C#\project\AddCar\AddCar\bin\Debug\net10.0-windows\AddCar.runtimeconfig.json
+D:\C#\project\AddCar\AddCar\bin\Debug\net10.0-windows\AddCar.dll
+D:\C#\project\AddCar\AddCar\bin\Debug\net10.0-windows\AddCar.pdb
+D:\C#\project\AddCar\AddCar\obj\Debug\net10.0-windows\AddCar.Form1.resources
+D:\C#\project\AddCar\AddCar\obj\Debug\net10.0-windows\AddCar.csproj.GenerateResource.cache
+D:\C#\project\AddCar\AddCar\obj\Debug\net10.0-windows\AddCar.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\project\AddCar\AddCar\obj\Debug\net10.0-windows\AddCar.AssemblyInfoInputs.cache
+D:\C#\project\AddCar\AddCar\obj\Debug\net10.0-windows\AddCar.AssemblyInfo.cs
+D:\C#\project\AddCar\AddCar\obj\Debug\net10.0-windows\AddCar.csproj.CoreCompileInputs.cache
+D:\C#\project\AddCar\AddCar\obj\Debug\net10.0-windows\AddCar.dll
+D:\C#\project\AddCar\AddCar\obj\Debug\net10.0-windows\refint\AddCar.dll
+D:\C#\project\AddCar\AddCar\obj\Debug\net10.0-windows\AddCar.pdb
+D:\C#\project\AddCar\AddCar\obj\Debug\net10.0-windows\AddCar.genruntimeconfig.cache
+D:\C#\project\AddCar\AddCar\obj\Debug\net10.0-windows\ref\AddCar.dll
